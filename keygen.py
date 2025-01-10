@@ -1,6 +1,6 @@
 #! /usr/bin/python
 print ("\n*********************************************************************")
-print "Cisco IOU License Generator - Kal 2011, python port of 2006 C version"
+print ("Cisco IOU License Generator - Kal 2011, python port of 2006 C version")
 import os
 import socket
 import hashlib
